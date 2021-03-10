@@ -21,7 +21,6 @@ export default {
     type: 'User',
     site_admin: false,
     name: 'Remon Abdou',
-    company: 'Coding Addict',
     blog: 'www.remonabdou.com',
     location: 'New Jersey',
     email: null,
